@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>874883079381-h83jg1vgva69ckh9f8heclj8fm69rpg7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.874883079381-h83jg1vgva69ckh9f8heclj8fm69rpg7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCZuF6kSaExO5p6GwGDqcRjA1vxGx5M0rU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>874883079381</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.bklv.NotesByTheBeach</string>
+	<key>PROJECT_ID</key>
+	<string>notesapp-cad1b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notesapp-cad1b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:874883079381:ios:b7c29da9932803e3</string>
+	<key>DATABASE_URL</key>
+	<string>https://notesapp-cad1b.firebaseio.com</string>
+</dict>
+</plist>
